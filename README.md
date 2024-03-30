@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @christopherorea
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning natural language processing
-- 💞️ I’m looking to collaborate on investigation proyects
-- 📫 How to reach me... Social Media: @thehappycookiehour
+- 🌱 I’m currently learning RAG business Implementations
+- 💞️ I’m looking to collaborate on investigation proyects on GenAI
+- 📫 How to reach me... Linked In: @chrisgalleta
 
 <!---
 christopherorea/christopherorea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
