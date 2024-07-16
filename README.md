@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @christopherorea
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning RAG business Implementations
-- 💞️ I’m looking to collaborate on investigation proyects on GenAI
+- 🌱 I’m currently learning BMC and investments
+- 💞️ I’m looking to collaborate on investigation proyects on AI
 - 📫 How to reach me... Linked In: @chrisgalleta
 
 <!---
